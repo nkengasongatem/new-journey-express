@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1497455657 source:c:\users\nkengasong\documents\new journey express\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<process.h>
+	<dir.h>
+	"Destinations.h"
+	"Main_Menu.h"
+	"Sell_Tickets_Main.h"
+	"Trip_Details.h"
+
+1497357962 c:\users\nkengasong\documents\new journey express\destinations.h
+
+1497698676 c:\users\nkengasong\documents\new journey express\main_menu.h
+
+1498327078 c:\users\nkengasong\documents\new journey express\sell_tickets_main.h
+
+1498326954 c:\users\nkengasong\documents\new journey express\trip_details.h
+
+1497181458 source:c:\users\nkengasong\documents\new journey express\icon_resource.rc
+
